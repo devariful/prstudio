@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html>
+   <title> practice 2</title>
+    <style>
+        #main{
+            background-color: #212121;
+            width:960px;
+            margin:0 auto;
+        }
+            .logo{
+                width:80px;
+                float:left;
+            }
+        
+        ul{
+            list-style-type: none;
+            background-color:black;
+            overflow:hidden;
+            padding-left:470px;
+        
+            
+           
+            
+            
+        }
+        li{
+           float:left;
+            border-right:1px solid white;
+            
+        }
+        
+        li a {text-decoration: none;
+            display: block;
+            padding:14px 16px;
+            color:white;
+        }
+        
+        li a:hover{
+           background-color:#464646;
+        }
+        .about{
+            margin-left:130px;
+            width:700px;
+            text-align: center;
+            color:white;
+        }
+        
+        
+        .content{
+            height:px
+                width:100%;
+            border:1 px solid white;
+            color:white;
+           
+        }
+        
+        .c{
+            
+            width:300px;
+            
+            float:left;
+            margin-left:15px;
+            text-align: center;
+            height:400px;
+        }
+        .a
+        
+        .story {
+            
+            width:960px;
+            height:300px;
+            float:left;
+            
+}
+        
+        .success{
+            margin-bottom:10px;
+            color:white;
+            text-align: center;
+            
+
+           
+        }
+        .st{
+            
+            margin-top:20px;
+            margin-right:10px;
+            width:300px;
+            height:150px;
+           float:left;
+            color:white;
+            padding:;
+           
+          
+            
+                
+        }
+        
+        .p1{
+            
+            width:300px;
+            height:150px;
+            
+            
+        }
+        .s1{
+            width:130px;
+            float:right;
+            
+
+
+        }
+        
+        .footer{
+            float:left;
+            margin-top:10px;
+            background-color:black;
+                height:300px;
+            width:960px;
+            border-bottom:1px solid white;
+            
+        }
+        .footerImage{
+            margin-left:660px
+        }
+        .bottom{
+            width:960px;
+            height:50px;
+            background-color:#000000;
+            float:left;
+
+            
+            
+        }
+        
+        .social h3{
+            margin-left:100px;
+            margin-right:100px;
+            color:white;
+            float:left;
+           
+            
+        }
+        .social h5{
+            float:left;
+            margin-left:180px;
+            color:white;
+            margin-top:18px;
+        }
+        .social img{
+            float:left;
+            margin-top:10px;
+            height:30px;
+
+
+            
+        }
+    </style>
+    
+<body id="main">
+
+        
+        
+       
+   
+    <div>
+        <img class="logo" src="img/logo.jpeg"/> 
+    </div>
+    <div>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About us</a></li>
+            <li><a href="gallery.html">Gallery</a></li>
+            <li><a href="">Service</a></li>
+            <li><a href="">Contact</a></li>
+        </ul>
+    </div>
+    <div>
+        <div>
+            <img src="img/banner1.jpg"/>
+        </div>
+        <div class="about">
+            <h3>Lorem Ipsum is simply dummy text of the printing and typesetting indusum hasLorem Ipsum has been the industry's standard dummy text ever since the </h3>
+            <p>Lorem Ipsum is simply dummy text of the printing and typesetting indusum hasLorem Ipsum has been the industry's standard dummy text ever since the Lorem Ipsum is simply dummy text of the printing and typesetting indusum hasLorem Ipsum has been the industry's standard dummy text ever since the Lorem Ipsum is simply dummy text of the printing and typesetting indusum hasLorem Ipsum has been the industry's standard dummy text ever since the </p>
+        </div>
+        <div class="content">
+            <div class="c a">
+                <H2>Workout</H2>
+                <img src="img/workout.jpg"/>
+                <p> text of the printing and typesetting indusum hasLorem Ipsum has been the industry's standard dummy te</p>
+            </div >
+            <div class="c b">
+                <H2>Motivation</H2>
+                <img src="img/motivation.jpg"/>
+                <p> text of the printing and typesetting indusum hasLorem Ipsum has been the industry's standard dummy te</p>
+                </div>
+            <div class="c c">
+                <H2>Diet Plan</H2>
+                <img src="img/diet.jpg"/>
+                <p> text of the printing and typesetting indusum hasLorem Ipsum has been the industry's standard dummy te</p>
+            </div>
+            
+        </div>
+        
+    </div>
+     <div class="story">
+            <div class="success"><h2>Success Story</h2></div>
+            <div class="st p1">
+                <img src="img/p1.jpg"/>
+               <div class="s1"> 
+                    
+                        <p>rinting and typsum hasLoriever since the Lorem esetting indusum hasLorem Ipsu</p>
+                        <H4>lorem</H4>
+                </div>          
+            </div>
+            <div class="st">
+                <img src="img/p2.jpg"/>
+                <div class="s1"> 
+                    
+                        <p>rinting and tyntiever since the Lorem esetting indusum hasLorem Ipsu</p>
+                        <H4>lorem</H4>
+                </div>          
+            </div>
+            <div class="st">
+                <img src="img/p3.jpg"/>
+                <div class="s1"> 
+                    
+                        <p>rinting and typsum hasLorem Ipsum harintievorem esetting indusum hasLorem Ipsu</p>
+                        <H4>lorem</H4>
+                </div>          
+            </div>
+            <div class="st">
+                <img src="img/p4.jpg"/>
+                <div class="s1"> 
+                    
+                        <p>rinting and typsum hasLorem Ipsum harintiever since  indusum hasLorem Ipsu</p>
+                        <H4>lorem</H4>
+                </div>          
+            </div>
+            <div class="st">
+                <img src="img/p5.jpg"/>
+                <div class="s1"> 
+                    
+                        <p>rinting and typsum hasLorem Ipsum harintiting indusum hasLorem Ipsu</p>
+                        <H4>lorem</H4>
+                </div>          
+            </div>
+            <div class="st">
+                <img src="img/p6.jpg"/>
+                <div class="s1"> 
+                    
+                        <p>rinting and typsum hasLorem Ipsuce the Lorem esetting indusum hasLorem Ipsu</p>
+                        <H4>lorem</H4>
+                </div>          
+            </div>
+        </div>
+        <div >
+            <div >
+                <div class="footer ">
+                    <div class="footerImage"><img src="img/footer.jpg"/></div>
+                    
+                </div>
+            </div>
+            <div class="bottom"> 
+                <div class="social" >
+                    <h3>+880 (02) 6845932</h3>
+                    <img src="img/social.png"/>
+                    <h5>© Copyright 2016-2017, CDIP ,All Right Reserved.</h5>
+                </div>
+                
+            </div>
+        </div>
+</body>
+</html>
